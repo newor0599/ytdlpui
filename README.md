@@ -5,3 +5,5 @@ https://github.com/yt-dlp/yt-dlp</h3>
 <h3>0 Ads / Pop-ups</h3>
 <h3>FAST download speed</h3>
 <h3>Easy to use</h3>
+
+app fully powered by python flet library
